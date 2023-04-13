@@ -1,0 +1,10 @@
+<resources>
+    <style name="FrameLayout">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="Widget.Theme.Zipper.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+</resources>

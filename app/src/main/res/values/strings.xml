@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zipper</string>
+    <string name="button_make_zip">New Collection</string>
+</resources>
